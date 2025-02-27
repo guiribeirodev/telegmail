@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "googleapis": "^144.0.0",
+    "node-fetch": "^3.3.2",
+    "open": "^10.1.0",
+    "telegraf": "^4.16.3"
+  }
+}
